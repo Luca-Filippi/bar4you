@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "898692513052",
+    "firebase_url": "https://bar4you-50184-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "bar4you-50184",
+    "storage_bucket": "bar4you-50184.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898692513052:android:de4c749c5e9a77e802ced9",
+        "android_client_info": {
+          "package_name": "it.units.inginf.sim.bar4you"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898692513052-0onh1j2l16e4ofegffc9tboeebed7iuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJvFATBrgyWSjQDLhnP-TCnpEdS28cnOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898692513052-0onh1j2l16e4ofegffc9tboeebed7iuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
