@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/mipmap-xhdpi_ic_logo_round.webp.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/mipmap-xhdpi/ic_logo_round.webp"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/layout_fragment_home.xml.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/menu_bar_menu.xml.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/menu/bar_menu.xml"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/mipmap-hdpi_ic_logo_foreground.webp.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/mipmap-hdpi/ic_logo_foreground.webp"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/drawable_ic_send.xml.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/drawable/ic_send.xml"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/mipmap-mdpi_ic_logo_foreground.webp.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/mipmap-mdpi/ic_logo_foreground.webp"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/mipmap-xxxhdpi_ic_logo.webp.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/mipmap-xxxhdpi/ic_logo.webp"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/mipmap-xxhdpi_ic_logo_round.webp.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/mipmap-xxhdpi/ic_logo_round.webp"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/drawable_ic_order.xml.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/drawable/ic_order.xml"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/mipmap-xxxhdpi_ic_logo_round.webp.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/mipmap-xxxhdpi/ic_logo_round.webp"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/mipmap-hdpi_ic_logo.webp.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/mipmap-hdpi/ic_logo.webp"
+    },
+    {
+        "merged": "it.units.inginf.sim.bar4you.app-merged_res-61:/layout_fragment_send.xml.flat",
+        "source": "it.units.inginf.sim.bar4you.app-main-63:/layout/fragment_send.xml"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/drawable_ic_home.xml.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/layout_fragment_bill.xml.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/layout/fragment_bill.xml"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/mipmap-xhdpi_ic_logo.webp.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/mipmap-xhdpi/ic_logo.webp"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/menu_bottom_nav_menu.xml.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/layout_activity_end.xml.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/layout/activity_end.xml"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/mipmap-xxxhdpi_ic_logo_foreground.webp.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/mipmap-xxxhdpi/ic_logo_foreground.webp"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/mipmap-anydpi-v26_ic_logo_round.xml.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/mipmap-anydpi-v26/ic_logo_round.xml"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/layout_fragment_order.xml.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/layout/fragment_order.xml"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/mipmap-anydpi-v26_ic_logo.xml.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/mipmap-anydpi-v26/ic_logo.xml"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/layout_fragment_order_error.xml.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/layout/fragment_order_error.xml"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/drawable_ic_bill.xml.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/drawable/ic_bill.xml"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/xml_backup_rules.xml.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/drawable_ic_order_menu.xml.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/drawable/ic_order_menu.xml"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/drawable_button_table.xml.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/drawable/button_table.xml"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/layout_activity_main.xml.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/mipmap-xhdpi_ic_logo_foreground.webp.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/mipmap-xhdpi/ic_logo_foreground.webp"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/mipmap-mdpi_ic_logo_round.webp.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/mipmap-mdpi/ic_logo_round.webp"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/layout_fragment_error.xml.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/layout/fragment_error.xml"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/layout_fragment_send.xml.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/layout/fragment_send.xml"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/drawable_error_asset.xml.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/drawable/error_asset.xml"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/drawable_ic_logo_background.xml.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/drawable/ic_logo_background.xml"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/layout_activity_error.xml.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/layout/activity_error.xml"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/mipmap-xxhdpi_ic_logo.webp.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/mipmap-xxhdpi/ic_logo.webp"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/mipmap-mdpi_ic_logo.webp.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/mipmap-mdpi/ic_logo.webp"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/drawable_error_image.xml.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/drawable/error_image.xml"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/drawable_delete_image.xml.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/drawable/delete_image.xml"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/drawable_add_image.xml.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/drawable/add_image.xml"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/layout_fragment_persons.xml.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/layout/fragment_persons.xml"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/layout_add_button_layout.xml.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/layout/add_button_layout.xml"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/mipmap-xxhdpi_ic_logo_foreground.webp.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/mipmap-xxhdpi/ic_logo_foreground.webp"
+    },
+    {
+        "merged": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-merged_res-61:/mipmap-hdpi_ic_logo_round.webp.flat",
+        "source": "/Users/lucamac/.gradle/daemon/8.0/it.units.inginf.sim.bar4you.app-main-63:/mipmap-hdpi/ic_logo_round.webp"
+    }
+]
