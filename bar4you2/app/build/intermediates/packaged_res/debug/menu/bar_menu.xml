@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/beers_menu"
+        android:titleCondensed="@string/beers"
+        android:title="@string/beers" />
+
+
+    <item
+        android:id="@+id/wines_menu"
+        android:titleCondensed="@string/wines"
+        android:title="@string/wines" />
+
+    <item
+        android:id="@+id/cocktails_menu"
+        android:titleCondensed="@string/cocktails"
+        android:title="@string/cocktails" />
+
+    <item
+        android:id="@+id/soft_drinks_menu"
+        android:titleCondensed="@string/soft_drinks"
+        android:title="@string/soft_drinks" />
+
+</menu>

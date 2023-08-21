@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_gradient_end">#DDDDDD</color>
+    <color name="background_gradient_start">#000000</color>
+    <color name="black">#FF000000</color>
+    <color name="blue">#0000FF</color>
+    <color name="brown">#A52A2A</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="dark_blue">#00008B</color>
+    <color name="dark_red">#8B0000</color>
+    <color name="default_background">#3d3d3d</color>
+    <color name="fastlane_background">#0096a6</color>
+    <color name="gold">#FFD700</color>
+    <color name="gray">#808080</color>
+    <color name="green">#00FF00</color>
+    <color name="light_green">#00FF00</color>
+    <color name="magenta">#FF00FF</color>
+    <color name="navy_blue">#000080</color>
+    <color name="olive_green">#808000</color>
+    <color name="orange">#FFA500</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="purple">#800080</color>
+    <color name="red">#FF0000</color>
+    <color name="search_opaque">#ffaa3f</color>
+    <color name="selected_background">#ffaa3f</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFFF00</color>
+    <dimen name="image_elevation">10dp</dimen>
+    <dimen name="popup_width">240dp</dimen>
+    <dimen name="space_between_buttons">8dp</dimen>
+    <string name="add">Aggiungi</string>
+    <string name="add_person_failure">Errore nell\'aggiunta di una persona</string>
+    <string name="add_person_success">Persona inserita con successo</string>
+    <string name="add_person_text">Inserisci un nome</string>
+    <string name="add_persons"> Puoi aggiungere dei nomi anche successivamente, ritornando in questa sezione.</string>
+    <string name="app_description"> Questa applicazione ti permette di ordinare da cibi e bevende.</string>
+    <string name="app_name">Bar4You</string>
+    <string name="beer">Birra</string>
+    <string name="beers">Birre</string>
+    <string name="bill_button"> Crea conto unico</string>
+    <string name="bill_description"> Quando stai per andare via, clicca sull\'icona con il simbolo dell\'euro
+        .per generare automaticmanete il conto</string>
+    <string name="bill_text_view"> Qui sotto viene messo in evidenza il conto. </string>
+    <string name="bill_text_view2"> Potete anche pagare separatamente. </string>
+    <string name="bill_title">Bill</string>
+    <string name="bills_button"> Crea conti separati</string>
+    <string name="button_insert">Inserisci</string>
+    <string name="cocktail">Cocktail</string>
+    <string name="cocktails">Cocktail</string>
+    <string name="count_tables_failure">Errore nel conteggio dei tavoli</string>
+    <string name="create_bill_failure">Errore nella creazione del conto</string>
+    <string name="create_bill_success">Conto creato con successo</string>
+    <string name="create_bills_failure">Conti creati con successo</string>
+    <string name="create_bills_success">Errore nella creazione del conto di:</string>
+    <string name="database_error">C\'è stato un errore con il database</string>
+    <string name="default_web_client_id" translatable="false">898692513052-0onh1j2l16e4ofegffc9tboeebed7iuv.apps.googleusercontent.com</string>
+    <string name="description">Descrizione</string>
+    <string name="end">Vai a pagare alla cassa</string>
+    <string name="error">Errore!</string>
+    <string name="error_activity"> Si è verificato un problema, riavvio l\'applicazione</string>
+    <string name="error_count_orders">Errore nel conteggio degli ordini</string>
+    <string name="firebase_database_url" translatable="false">https://bar4you-50184-default-rtdb.europe-west1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">898692513052</string>
+    <string name="google_api_key" translatable="false">AIzaSyAJvFATBrgyWSjQDLhnP-TCnpEdS28cnOE</string>
+    <string name="google_app_id" translatable="false">1:898692513052:android:de4c749c5e9a77e802ced9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAJvFATBrgyWSjQDLhnP-TCnpEdS28cnOE</string>
+    <string name="google_storage_bucket" translatable="false">bar4you-50184.appspot.com</string>
+    <string name="home_description"> In questa sezione di home, puoi trovare il tutorial dell\'app. </string>
+    <string name="home_description2">Inoltre inserisci il numero di tavolo e le persone sedute in modo da poter
+        effettuare al meglio le ordinazioni.</string>
+    <string name="home_title">Home</string>
+    <string name="insert_table_number">Inserisci un numero di tavolo</string>
+    <string name="inserted_persons"> Al momento non è stata inserita nessuna persona.</string>
+    <string name="menu_description">Icona menù</string>
+    <string name="name">Nome</string>
+    <string name="name_invalid">Nome non valido</string>
+    <string name="no_order">Non hai effettuato nessun ordine</string>
+    <string name="no_order_element">Non hai ancora selezionato nessun prodotto</string>
+    <string name="no_table_number"> Tavolo non associato</string>
+    <string name="not_inserted">non inserito nell\'ordine</string>
+    <string name="number_table_text"> Inserisci il numero di tavolo" </string>
+    <string name="occupy_table_failure">Errore nell\'occupazione del tavolo</string>
+    <string name="occupy_table_success">Tavolo occupato con successo</string>
+    <string name="order_description">Clicca sull\'icona a forma di bicchiere per visualizzare il menu
+        e scegliere quali cibi e bevende ordinare.</string>
+    <string name="order_title">Order</string>
+    <string name="persons"> Inserisci qui il nome delle persone sedute al tavolo, separa i nomi con una virgola.</string>
+    <string name="persons_spinner">Per</string>
+    <string name="price">Prezzo</string>
+    <string name="product">Prodotto </string>
+    <string name="project_id" translatable="false">bar4you-50184</string>
+    <string name="read_data_error">Errore nella lettura dei dati</string>
+    <string name="remove">Cancella</string>
+    <string name="send_description"> Clicca sull\'icona con la freccia per mandare l\'ordine, ti serviremo il prima
+        possibile. </string>
+    <string name="send_success">Ordine inviato</string>
+    <string name="send_text_view"> Questo è il tuo ordine, se desideri togliere qualcosa clicca sul pulsante togli.</string>
+    <string name="send_title">Send</string>
+    <string name="soft_drink">Analcolico</string>
+    <string name="soft_drinks">Analcolici</string>
+    <string name="submit">Invia</string>
+    <string name="table"> Inserisci qui sotto il numero di tavolo a cui associare i tutoi ordini.</string>
+    <string name="table_number_invalid">Numero di tavolo inserito non valido</string>
+    <string name="table_occupied">Tavolo già occuppato</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="total"> Totale</string>
+    <string name="total_spent"> Totale speso </string>
+    <string name="welcome">Benvenuto in Bar4you</string>
+    <string name="who_drink"> Per chi è questo drink?</string>
+    <string name="wine">Vino</string>
+    <string name="wines">Vini</string>
+    <style name="Base.Theme.Bar4You" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Bar4You" parent="Base.Theme.Bar4You"/>
+</resources>
