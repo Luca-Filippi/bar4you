@@ -3,8 +3,7 @@ Applicazione android valida per l'esame di sistemi integrati e mobili, in partic
 Argomento a scelta non sviluppato a lezione: Firebase -> Real Time Database
 
 L'applicazione dimostrativa consente la gestione delle ordinazioni di un ipotetico bar:
-   -> MainActivity: è costituita da diversi frammenti che sono selezionabili tramite una barra di navigazione posizionata nella parte bassa
-   dello schermo:
+   -> MainActivity: è costituita da diversi frammenti che sono selezionabili tramite una barra di navigazione posizionata nella parte bassa dello schermo:\\
          -> HomeFragment consente l'inserimento del numero di tavolo, tale numero è selezionabile tramite uno spinner che mostra tutti i
          tavoli attualmente liberi
          -> PersonsFragment consente di insererire le persone che sono sedute al tavolo.
