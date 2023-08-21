@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fragment_bill_id"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/bill_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/bill_text_view"
+        android:textAlignment="viewStart"
+        android:textColor="@color/dark_blue"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/bill_text2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/bill_text_view2"
+        android:textAlignment="viewStart"
+        android:textColor="@color/dark_blue"
+        android:textSize="20sp" />
+
+    <TableLayout
+        android:id="@+id/bill_table"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:stretchColumns="*"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp">
+
+        <!-- le righe dati della tabella vengono definite nel codice-->
+
+    </TableLayout>
+
+</LinearLayout>

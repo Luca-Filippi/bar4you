@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Bar4You</string>
+    <!-- HomeFragment -->
+    <string name="welcome">Benvenuto in Bar4you</string>
+    <string name="app_description"> Questa applicazione ti permette di ordinare da cibi e bevende.</string>
+    <string name="home_description"> In questa sezione di home, puoi trovare il tutorial dell\'app. </string>
+    <string name="home_description2">Inoltre inserisci il numero di tavolo e le persone sedute in modo da poter
+        effettuare al meglio le ordinazioni.</string>
+    <string name="order_description">Clicca sull\'icona a forma di bicchiere per visualizzare il menu
+        e scegliere quali cibi e bevende ordinare.</string>
+    <string name="send_description"> Clicca sull\'icona con la freccia per mandare l\'ordine, ti serviremo il prima
+        possibile. </string>
+    <string name="bill_description"> Quando stai per andare via, clicca sull\'icona con il simbolo dell\'euro
+        .per generare automaticmanete il conto</string>
+    <string name="table"> Inserisci qui sotto il numero di tavolo a cui associare i tutoi ordini.</string>
+    <string name="persons"> Inserisci qui il nome delle persone sedute al tavolo, separa i nomi con una virgola.</string>
+    <string name="add_persons"> Puoi aggiungere dei nomi anche successivamente, ritornando in questa sezione.</string>
+    <string name="button_insert">Inserisci</string>
+    <string name="number_table_text"> Inserisci il numero di tavolo" </string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="add_person_text">Inserisci un nome</string>
+    <string name="submit">Invia</string>
+    <string name="inserted_persons"> Al momento non è stata inserita nessuna persona.</string>
+
+    <!-- Menu -->
+    <string name="beers">Birre</string>
+    <string name="wines">Vini</string>
+    <string name="cocktails">Cocktail</string>
+    <string name="soft_drinks">Analcolici</string>
+    <string name="menu_description">Icona menù</string>
+    <string name="no_table_number"> Tavolo non associato</string>
+
+    <!-- Intestazioni per i frammenti del menu-->
+    <string name="beer">Birra</string>
+    <string name="wine">Vino</string>
+    <string name="cocktail">Cocktail</string>
+    <string name="soft_drink">Analcolico</string>
+    <string name="description">Descrizione</string>
+    <string name="price">Prezzo</string>
+    <string name="add">Aggiungi</string>
+    <string name="persons_spinner">Per</string>
+    <string name="error">Errore!</string>
+
+    <!-- SendFragment -->
+    <string name="send_text_view"> Questo è il tuo ordine, se desideri togliere qualcosa clicca sul pulsante togli.</string>
+    <string name="product">Prodotto </string>
+    <string name="remove">Cancella</string>
+
+    <!-- BillFragment -->
+    <string name="bill_text_view"> Qui sotto viene messo in evidenza il conto. </string>
+    <string name="bill_text_view2"> Potete anche pagare separatamente. </string>
+    <string name="bill_button"> Crea conto unico</string>
+    <string name="bills_button"> Crea conti separati</string>
+    <string name="name">Nome</string>
+    <string name="total_spent"> Totale speso </string>
+    <string name="total"> Totale</string>
+
+
+    <!-- Activities -->
+    <string name="end">Vai a pagare alla cassa</string>
+    <string name="error_activity"> Si è verificato un problema, riavvio l\'applicazione</string>
+
+    <!-- Navigation Menu -->
+    <string name ="home_title">Home</string>
+    <string name="order_title">Order</string>
+    <string name="send_title">Send</string>
+    <string name="bill_title">Bill</string>
+
+</resources>

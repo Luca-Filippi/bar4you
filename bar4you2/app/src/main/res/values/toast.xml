@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- HomeFragment -->
+    <string name="occupy_table_success">Tavolo occupato con successo</string>
+    <string name="occupy_table_failure">Errore nell\'occupazione del tavolo</string>
+    <string name="table_occupied">Tavolo già occuppato</string>
+    <string name="table_number_invalid">Numero di tavolo inserito non valido</string>
+    <string name="read_data_error">Errore nella lettura dei dati</string>
+    <string name="insert_table_number">Inserisci un numero di tavolo</string>
+    <string name="count_tables_failure">Errore nel conteggio dei tavoli</string>
+
+    <!-- PersonsFragment -->
+    <string name="add_person_success">Persona inserita con successo</string>
+    <string name="add_person_failure">Errore nell\'aggiunta di una persona</string>
+
+    <!-- BillFragment -->
+    <string name="create_bill_success">Conto creato con successo</string>
+    <string name="create_bill_failure">Errore nella creazione del conto</string>
+    <string name="create_bills_success">Errore nella creazione del conto di:</string>
+    <string name="create_bills_failure">Conti creati con successo</string>
+    <string name="database_error">C\'è stato un errore con il database</string>
+    <string name="no_order">Non hai effettuato nessun ordine</string>
+
+    <!-- SendFragment -->
+    <string name="no_order_element">Non hai ancora selezionato nessun prodotto</string>
+    <string name="not_inserted">non inserito nell\'ordine</string>
+    <string name="error_count_orders">Errore nel conteggio degli ordini</string>
+    <string name="send_success">Ordine inviato</string>
+
+    <!-- OrderFragment -->
+    <string name="name_invalid">Nome non valido</string>
+    <string name="who_drink"> Per chi è questo drink?</string>
+
+</resources>
